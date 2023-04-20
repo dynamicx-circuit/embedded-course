@@ -918,7 +918,7 @@
     (property "Value" "HX9193-33GB" (at 111.76 83.82 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "PackageSOT:SOT-23-5" (at 111.76 81.28 0)
+    (property "Footprint" "Package_TO_SOT_SMD:SOT-23-5_HandSoldering" (at 111.76 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 111.76 88.9 0)
